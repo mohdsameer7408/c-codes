@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <conio.h>
 
 // swap function to swap two numbers
 void swap(float *a, float *b)
@@ -112,4 +113,6 @@ void main()
 
     generatedProfit = calculateProfit(profit, weight, profitToWeight, n, bagSize);
     printf("\nProfit is: %f", generatedProfit);
+
+    getch();
 }
