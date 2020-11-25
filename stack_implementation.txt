@@ -1,0 +1,9 @@
+Stack operations-
+
+1. Creation,
+2. push(element),
+3. pop(),
+4. traverse(),
+5. isEmpty(),
+6. isFull(),
+7. size() / length().

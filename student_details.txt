@@ -1,0 +1,18 @@
+Details of student 1 are :
+Name = Mohd Sameer Ahmad
+Roll_Number = 201810101110106
+Course = B.Tech
+Branch = CSE
+
+Details of student 2 are :
+Name = Harshit Dubey
+Roll_Number = 201810101110106
+Course = B.Tech
+Branch = CSE
+
+Details of student 3 are :
+Name = Nikhil Sahu
+Roll_Number = 201810101110087
+Course = B.Tech
+Branch = CSE
+
