@@ -65,7 +65,7 @@ void generateProfitToWeightArray(float profit[], float weight[], float profitToW
     }
 }
 
-// this function calculates profit on the basis on knapsack rules
+// this function calculates profit on the basis of knapsack rules
 float calculateProfit(float profit[], float weight[], float profitToWeight[], int size, int bagSize)
 {
     int i;
